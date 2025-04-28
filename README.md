@@ -1,2 +1,3 @@
 # new-project
-first project
+my first project
+author-riddhi jain
